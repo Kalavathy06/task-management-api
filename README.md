@@ -7,7 +7,7 @@ Includes JWT authentication, task assignment email notifications, daily overdue 
 
 ## 🚀 Live Deployment
 
-- **API Base URL:** `https://your-deployed-api.com`
+- **API Base URL:** `https://task-management-api01.onrender.com`
 - **Sample Credentials:**
   - **Username:** testuser
   - **Password:** Test@1234
