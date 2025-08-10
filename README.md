@@ -41,5 +41,5 @@ Includes JWT authentication, task assignment email notifications, daily overdue 
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/macv-ai-task-api.git
+git clone https://github.com/Kalavathy06/task-management-api.git
 cd macv-ai-task-api
